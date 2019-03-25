@@ -1,0 +1,12 @@
+C:\Users\JONAS\Desktop\AulaSwitch\AulaSwitch\bin\Debug\AulaSwitch.exe.config
+C:\Users\JONAS\Desktop\AulaSwitch\AulaSwitch\bin\Debug\AulaSwitch.exe
+C:\Users\JONAS\Desktop\AulaSwitch\AulaSwitch\bin\Debug\AulaSwitch.pdb
+C:\Users\JONAS\Desktop\AulaSwitch\AulaSwitch\obj\Debug\AulaSwitch.csprojResolveAssemblyReference.cache
+C:\Users\JONAS\Desktop\AulaSwitch\AulaSwitch\obj\Debug\AulaSwitch.Form1.resources
+C:\Users\JONAS\Desktop\AulaSwitch\AulaSwitch\obj\Debug\AulaSwitch.Properties.Resources.resources
+C:\Users\JONAS\Desktop\AulaSwitch\AulaSwitch\obj\Debug\AulaSwitch.csproj.GenerateResource.Cache
+C:\Users\JONAS\Desktop\AulaSwitch\AulaSwitch\obj\Debug\AulaSwitch.exe
+C:\Users\JONAS\Desktop\AulaSwitch\AulaSwitch\obj\Debug\AulaSwitch.pdb
+C:\Users\JONAS\Desktop\Curso Fundação Bradesco\AulaSwitch\AulaSwitch\bin\Debug\AulaSwitch.exe.config
+C:\Users\JONAS\Desktop\Curso Fundação Bradesco\AulaSwitch\AulaSwitch\obj\Debug\AulaSwitch.exe
+C:\Users\JONAS\Desktop\Curso Fundação Bradesco\AulaSwitch\AulaSwitch\obj\Debug\AulaSwitch.pdb
